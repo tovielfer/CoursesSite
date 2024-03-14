@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\coursesserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:coursesserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\controllers\\lacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:controllers\\lacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\entities\\lacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:entities\\lacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\coursesserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF56EDD-D086-4EC4-B9AF-78E2AB21B2AE}|CoursesServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lacturer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Lacturer.cs",
+              "RelativeDocumentMoniker": "Entities\\Lacturer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Lacturer.cs",
+              "RelativeToolTip": "Entities\\Lacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:22:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:21:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:18:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:20:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:22:21.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:22:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesServer.http",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\CoursesServer.http",
+              "RelativeDocumentMoniker": "CoursesServer.http",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\CoursesServer.http",
+              "RelativeToolTip": "CoursesServer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-05T17:46:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:20:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LacturerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\LacturerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LacturerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Controllers\\LacturerController.cs",
+              "RelativeToolTip": "Controllers\\LacturerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:19:30.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\u05E8\u05E8\u05E8\\CoursesServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:15:07.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

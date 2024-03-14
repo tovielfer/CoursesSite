@@ -1,0 +1,73 @@
+{
+  "hash": "bd7f6559",
+  "configHash": "d24da0ac",
+  "lockfileHash": "9b4343bd",
+  "browserHash": "e4061367",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "58429a4b",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "d6637109",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "f61c381c",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "5910a27d",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "bed04821",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "835c6231",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../../../../node_modules/sweetalert2/dist/sweetalert2.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "202fd470",
+      "needsInterop": true
+    },
+    "date-fns": {
+      "src": "../../../../../node_modules/date-fns/index.mjs",
+      "file": "date-fns.js",
+      "fileHash": "6c56b9bf",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BXY6ZOIQ": {
+      "file": "chunk-BXY6ZOIQ.js"
+    },
+    "chunk-G7EHM7JF": {
+      "file": "chunk-G7EHM7JF.js"
+    },
+    "chunk-HHZ4FQTA": {
+      "file": "chunk-HHZ4FQTA.js"
+    },
+    "chunk-BITAGTGM": {
+      "file": "chunk-BITAGTGM.js"
+    },
+    "chunk-WKYGNSYM": {
+      "file": "chunk-WKYGNSYM.js"
+    }
+  }
+}
